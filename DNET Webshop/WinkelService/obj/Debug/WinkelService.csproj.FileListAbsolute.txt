@@ -1,0 +1,7 @@
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\obj\Debug\WinkelService.csprojResolveAssemblyReference.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\obj\Debug\WinkelService.csproj.CoreCompileInputs.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\bin\Debug\WinkelService.dll.config
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\bin\Debug\WinkelService.dll
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\bin\Debug\WinkelService.pdb
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\obj\Debug\WinkelService.dll
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WinkelService\obj\Debug\WinkelService.pdb

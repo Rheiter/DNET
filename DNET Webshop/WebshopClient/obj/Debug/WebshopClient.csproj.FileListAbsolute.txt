@@ -1,0 +1,11 @@
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.csprojResolveAssemblyReference.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.LoginForm.resources
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.Properties.Resources.resources
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.csproj.GenerateResource.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.csproj.CoreCompileInputs.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\bin\Debug\WebshopClient.exe.config
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\bin\Debug\WebshopClient.exe
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\bin\Debug\WebshopClient.pdb
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.exe
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.pdb
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopClient\obj\Debug\WebshopClient.WebshopForm.resources

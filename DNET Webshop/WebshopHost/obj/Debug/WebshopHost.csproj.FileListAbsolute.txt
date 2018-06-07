@@ -1,0 +1,14 @@
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\WebshopHost.exe.config
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\WebshopHost.exe
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\WebshopHost.pdb
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\WinkelService.dll
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\MySql.Data.dll
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\Google.Protobuf.dll
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\WinkelService.pdb
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\WinkelService.dll.config
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\bin\Debug\MySql.Data.xml
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\obj\Debug\WebshopHost.csprojResolveAssemblyReference.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\obj\Debug\WebshopHost.csproj.CoreCompileInputs.cache
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\obj\Debug\WebshopHost.csproj.CopyComplete
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\obj\Debug\WebshopHost.exe
+C:\Users\Pim\Dropbox\ICT\Jaar 2\DNET\Practica\Week 5\WinkelService\WebshopHost\obj\Debug\WebshopHost.pdb
